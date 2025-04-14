@@ -18,9 +18,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"CloseButton","order":5,"path":"objects/CloseButton/CloseButton.yy",},
     {"name":"CloseNoteButton","order":1,"path":"objects/CloseNoteButton/CloseNoteButton.yy",},
     {"name":"CopyNoteButton","order":2,"path":"objects/CopyNoteButton/CopyNoteButton.yy",},
     {"name":"LockNoteButton","order":3,"path":"objects/LockNoteButton/LockNoteButton.yy",},
+    {"name":"NewButton","order":6,"path":"objects/NewButton/NewButton.yy",},
     {"name":"SettingNoteButton","order":4,"path":"objects/SettingNoteButton/SettingNoteButton.yy",},
     {"name":"SpriteCloseButton","order":2,"path":"sprites/SpriteCloseButton/SpriteCloseButton.yy",},
     {"name":"SpriteCopyNote","order":1,"path":"sprites/SpriteCopyNote/SpriteCopyNote.yy",},

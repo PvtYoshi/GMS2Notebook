@@ -36,9 +36,11 @@
   },
   "name":"Notebook",
   "resources":[
+    {"id":{"name":"CloseButton","path":"objects/CloseButton/CloseButton.yy",},},
     {"id":{"name":"CloseNoteButton","path":"objects/CloseNoteButton/CloseNoteButton.yy",},},
     {"id":{"name":"CopyNoteButton","path":"objects/CopyNoteButton/CopyNoteButton.yy",},},
     {"id":{"name":"LockNoteButton","path":"objects/LockNoteButton/LockNoteButton.yy",},},
+    {"id":{"name":"NewButton","path":"objects/NewButton/NewButton.yy",},},
     {"id":{"name":"Note","path":"objects/Note/Note.yy",},},
     {"id":{"name":"SettingNoteButton","path":"objects/SettingNoteButton/SettingNoteButton.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
