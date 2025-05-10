@@ -32,7 +32,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.0.190",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"Notebook",
   "resources":[
@@ -40,10 +40,12 @@
     {"id":{"name":"CloseNoteButton","path":"objects/CloseNoteButton/CloseNoteButton.yy",},},
     {"id":{"name":"CopyNoteButton","path":"objects/CopyNoteButton/CopyNoteButton.yy",},},
     {"id":{"name":"LockNoteButton","path":"objects/LockNoteButton/LockNoteButton.yy",},},
+    {"id":{"name":"Monday","path":"objects/Monday/Monday.yy",},},
     {"id":{"name":"NewButton","path":"objects/NewButton/NewButton.yy",},},
     {"id":{"name":"Note","path":"objects/Note/Note.yy",},},
     {"id":{"name":"SettingNoteButton","path":"objects/SettingNoteButton/SettingNoteButton.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"DaySprite","path":"sprites/DaySprite/DaySprite.yy",},},
     {"id":{"name":"SpriteBackground","path":"sprites/SpriteBackground/SpriteBackground.yy",},},
     {"id":{"name":"SpriteCloseButton","path":"sprites/SpriteCloseButton/SpriteCloseButton.yy",},},
     {"id":{"name":"SpriteCloseNote","path":"sprites/SpriteCloseNote/SpriteCloseNote.yy",},},
